@@ -1,0 +1,5 @@
+magic
+rocks
+stick
+laser
+blade
